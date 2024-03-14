@@ -1,6 +1,6 @@
 # [Nombre del Programa]
 
-Este es un script de Python diseñado para ...
+Este es un script de Python diseñado para trabajar...
 
 ## Uso
 
