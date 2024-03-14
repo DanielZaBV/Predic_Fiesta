@@ -4,7 +4,11 @@ Fecha:
 
 **Participantes / Autor**:
 
+<<<<<<< Updated upstream
 - Nombre  <correo>
+=======
+-  <>
+>>>>>>> Stashed changes
 
 ## Descripción del Problema
 
@@ -13,6 +17,7 @@ Fecha:
 
 Requisitos funcionales
 
+<<<<<<< Updated upstream
 - Describe lo que el sistema debe de hacer:flujo de trabajo,entradas, salidas,exepciones.
 
 
@@ -55,3 +60,30 @@ El formato de los datos de entrada.
 	
 - **Flujos alternativos**:
 	- Casos especiales en el programa
+=======
+Requisitos no funcionales
+
+
+## Análisis y Diseño
+
+```
+
+```
+
+
+
+#### Caso de uso: 
+
+```
+        
+```
+
+- **Actor**: 
+- **Descripción**: 
+- **Flujo principal**:
+	
+- **Flujos alternativos**:
+	
+                
+
+>>>>>>> Stashed changes

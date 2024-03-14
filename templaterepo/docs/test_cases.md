@@ -13,16 +13,31 @@ La ejecución exitosa de estos casos de prueba asegura que el script está listo
 A continuación, presentamos los detalles de los casos de prueba. Cada caso de prueba incluye una descripción del caso de prueba, los datos de entrada utilizados y el resultado esperado.
     
     
+<<<<<<< Updated upstream
 ### Caso de prueba 1: Comprobación de ----
 
 - Descripción: Verificar que el script puede ----
 - Datos de entrada: ----
 - Resultado esperado: ---
 - Estado: -----
+=======
+### Caso de prueba 1:
+
+### Caso de prueba 2:
+>>>>>>> Stashed changes
 
 ### Caso de prueba 2: Comprobación de error ----
 
+<<<<<<< Updated upstream
 - Descripción: Verificar que el script puede ------
 - Datos de entrada: ---
 - Resultado esperado: ---
 - Estado: ----
+=======
+
+### Caso de prueba 3: 
+
+
+### Caso de prueba 4: 
+        
+>>>>>>> Stashed changes
