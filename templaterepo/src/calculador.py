@@ -20,7 +20,7 @@ def pizza(_invi) :
 
 
 
-max_invi = 10
+max_invi = 1000
 data = []
 
 # Llenando un conjunto de datos de entrenamiento con rango 1-10

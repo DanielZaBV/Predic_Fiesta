@@ -16,7 +16,7 @@ model.compile(
 
 # Entrenamiento
 
-model.fit(clc.x_train, clc.y_train, epochs = 10)
+model.fit(clc.x_train, clc.y_train, epochs = 1000)
 
 print("Ingresa el número de invitados:")
 num_invi_ing = int(input()) # Número de invitados para el cual hacer predicciones
