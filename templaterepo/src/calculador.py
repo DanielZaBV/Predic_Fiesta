@@ -21,7 +21,7 @@ print("Ingresa el número de invitados")
 num_invi = int(input(int))
 
 
-print(soda(num_invi))
-print(agua(num_invi))
-print(papa(num_invi))
-print(pizza(num_invi))
+print(f"Refrescos: {soda(num_invi)}")
+print(f"Botellas de agua: {agua(num_invi)}")
+print(f"Bolsas de papas fritas: {papa(num_invi)}")
+print(f"Rebanadas de pizza: {pizza(num_invi)}")
