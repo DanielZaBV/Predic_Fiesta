@@ -21,8 +21,7 @@ model.fit(clc.x_train, clc.y_train, epochs = 1000)
 print("Ingresa el número de invitados:")
 num_invi_ing = int(input()) # Número de invitados para el cual hacer predicciones
 
-num_input = np.array([[num_invi_ing]]) # Afuerza tuve que hacer esto, espero ya jale
-
+num_input = np.array([[num_invi_ing]]) # Parece que es necesario convertirlo a array y no solo ponerle [[]] como estaba haciendo
 # Predicción
 
 prediccion = model.predict(num_input)  # Predicción para el nuevo caso
@@ -32,3 +31,4 @@ print("Refrescos:", round(prediccion[0][0]))
 print("Botellas de agua:", round(prediccion[0][1]))
 print("Papas fritas:", round(prediccion[0][2]))
 print("Rebanadas de pizza:", round(prediccion[0][3]))
+
